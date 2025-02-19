@@ -1,4 +1,4 @@
-# 🤖 Meteora Sniper Bot
+# 🤖 Meteora Sniper Bot (Yellowstone gRPC)
 Meteora Sniper bot can detect new pools on Meteora and make trades on these pools.
 
 # 💬 Contact Me
